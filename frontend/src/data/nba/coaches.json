@@ -1,0 +1,294 @@
+{
+  "coaches": [
+    {
+      "id": "gregg-popovich",
+      "name": "Gregg Popovich",
+      "sport": "NBA",
+      "currentTeam": "San Antonio Spurs",
+      "formerTeams": [
+        { "name": "San Antonio Spurs", "years": { "start": 1996 }, "role": "Head Coach", "record": { "wins": 1344, "losses": 701 } }
+      ],
+      "yearsActive": { "start": 1988 },
+      "mentors": [
+        { "coachId": "larry-brown", "coachName": "Larry Brown", "team": "San Antonio Spurs", "years": { "start": 1988, "end": 1992 }, "role": "assistant" }
+      ],
+      "disciples": [
+        { "coachId": "mike-budenholzer", "coachName": "Mike Budenholzer", "team": "San Antonio Spurs", "years": { "start": 1996, "end": 2013 }, "role": "assistant" },
+        { "coachId": "quin-snyder", "coachName": "Quin Snyder", "team": "San Antonio Spurs", "years": { "start": 2007, "end": 2010 }, "role": "assistant" },
+        { "coachId": "ime-udoka", "coachName": "Ime Udoka", "team": "San Antonio Spurs", "years": { "start": 2012, "end": 2019 }, "role": "assistant" },
+        { "coachId": "becky-hammon", "coachName": "Becky Hammon", "team": "San Antonio Spurs", "years": { "start": 2014, "end": 2021 }, "role": "assistant" },
+        { "coachId": "brett-brown", "coachName": "Brett Brown", "team": "San Antonio Spurs", "years": { "start": 2002, "end": 2013 }, "role": "assistant" },
+        { "coachId": "james-borrego", "coachName": "James Borrego", "team": "San Antonio Spurs", "years": { "start": 2003, "end": 2018 }, "role": "assistant" }
+      ],
+      "championships": 5,
+      "coachOfYearAwards": 3,
+      "playoffAppearances": 22,
+      "winPercentage": 0.657,
+      "allStarSelectionsCoached": 48,
+      "imageUrl": "/images/coaches/popovich.jpg",
+      "bio": "Gregg Popovich is the winningest coach in NBA history and has created one of the most influential coaching trees in basketball."
+    },
+    {
+      "id": "phil-jackson",
+      "name": "Phil Jackson",
+      "sport": "NBA",
+      "currentTeam": null,
+      "formerTeams": [
+        { "name": "Chicago Bulls", "years": { "start": 1989, "end": 1998 }, "role": "Head Coach", "record": { "wins": 545, "losses": 193 } },
+        { "name": "Los Angeles Lakers", "years": { "start": 1999, "end": 2011 }, "role": "Head Coach", "record": { "wins": 610, "losses": 292 } }
+      ],
+      "yearsActive": { "start": 1987, "end": 2011 },
+      "mentors": [
+        { "coachId": "tex-winter", "coachName": "Tex Winter", "team": "Chicago Bulls", "years": { "start": 1985, "end": 1998 }, "role": "assistant" }
+      ],
+      "disciples": [
+        { "coachId": "kurt-rambis", "coachName": "Kurt Rambis", "team": "Los Angeles Lakers", "years": { "start": 1999, "end": 2009 }, "role": "assistant" },
+        { "coachId": "brian-shaw", "coachName": "Brian Shaw", "team": "Los Angeles Lakers", "years": { "start": 2004, "end": 2011 }, "role": "assistant" }
+      ],
+      "championships": 11,
+      "coachOfYearAwards": 1,
+      "playoffAppearances": 20,
+      "winPercentage": 0.704,
+      "allStarSelectionsCoached": 52,
+      "imageUrl": "/images/coaches/jackson.jpg",
+      "bio": "Phil Jackson won 11 NBA championships, the most by any coach in league history."
+    },
+    {
+      "id": "pat-riley",
+      "name": "Pat Riley",
+      "sport": "NBA",
+      "currentTeam": null,
+      "formerTeams": [
+        { "name": "Los Angeles Lakers", "years": { "start": 1981, "end": 1990 }, "role": "Head Coach", "record": { "wins": 533, "losses": 194 } },
+        { "name": "New York Knicks", "years": { "start": 1991, "end": 1995 }, "role": "Head Coach", "record": { "wins": 223, "losses": 105 } },
+        { "name": "Miami Heat", "years": { "start": 1995, "end": 2008 }, "role": "Head Coach", "record": { "wins": 454, "losses": 395 } }
+      ],
+      "yearsActive": { "start": 1981, "end": 2008 },
+      "mentors": [
+        { "coachId": "paul-westhead", "coachName": "Paul Westhead", "team": "Los Angeles Lakers", "years": { "start": 1979, "end": 1981 }, "role": "assistant" }
+      ],
+      "disciples": [
+        { "coachId": "erik-spoelstra", "coachName": "Erik Spoelstra", "team": "Miami Heat", "years": { "start": 1995, "end": 2008 }, "role": "assistant" },
+        { "coachId": "stan-van-gundy", "coachName": "Stan Van Gundy", "team": "Miami Heat", "years": { "start": 1995, "end": 2003 }, "role": "assistant" },
+        { "coachId": "jeff-van-gundy", "coachName": "Jeff Van Gundy", "team": "New York Knicks", "years": { "start": 1992, "end": 1995 }, "role": "assistant" }
+      ],
+      "championships": 5,
+      "coachOfYearAwards": 3,
+      "playoffAppearances": 19,
+      "winPercentage": 0.636,
+      "allStarSelectionsCoached": 42,
+      "imageUrl": "/images/coaches/riley.jpg",
+      "bio": "Pat Riley won five NBA championships and built the Miami Heat into a perennial contender."
+    },
+    {
+      "id": "erik-spoelstra",
+      "name": "Erik Spoelstra",
+      "sport": "NBA",
+      "currentTeam": "Miami Heat",
+      "formerTeams": [
+        { "name": "Miami Heat", "years": { "start": 2008 }, "role": "Head Coach", "record": { "wins": 716, "losses": 485 } }
+      ],
+      "yearsActive": { "start": 1995 },
+      "mentors": [
+        { "coachId": "pat-riley", "coachName": "Pat Riley", "team": "Miami Heat", "years": { "start": 1995, "end": 2008 }, "role": "assistant" }
+      ],
+      "disciples": [
+        { "coachId": "dan-craig", "coachName": "Dan Craig", "team": "Miami Heat", "years": { "start": 2015, "end": 2022 }, "role": "assistant" }
+      ],
+      "championships": 2,
+      "coachOfYearAwards": 0,
+      "playoffAppearances": 13,
+      "winPercentage": 0.596,
+      "allStarSelectionsCoached": 28,
+      "imageUrl": "/images/coaches/spoelstra.jpg",
+      "bio": "Erik Spoelstra won two NBA championships with the Miami Heat's Big Three era."
+    },
+    {
+      "id": "mike-budenholzer",
+      "name": "Mike Budenholzer",
+      "sport": "NBA",
+      "currentTeam": "Phoenix Suns",
+      "formerTeams": [
+        { "name": "Atlanta Hawks", "years": { "start": 2013, "end": 2018 }, "role": "Head Coach", "record": { "wins": 213, "losses": 197 } },
+        { "name": "Milwaukee Bucks", "years": { "start": 2018, "end": 2023 }, "role": "Head Coach", "record": { "wins": 271, "losses": 120 } },
+        { "name": "Phoenix Suns", "years": { "start": 2023 }, "role": "Head Coach", "record": { "wins": 49, "losses": 33 } }
+      ],
+      "yearsActive": { "start": 1996 },
+      "mentors": [
+        { "coachId": "gregg-popovich", "coachName": "Gregg Popovich", "team": "San Antonio Spurs", "years": { "start": 1996, "end": 2013 }, "role": "assistant" }
+      ],
+      "disciples": [],
+      "championships": 1,
+      "coachOfYearAwards": 2,
+      "playoffAppearances": 9,
+      "winPercentage": 0.617,
+      "allStarSelectionsCoached": 18,
+      "imageUrl": "/images/coaches/budenholzer.jpg",
+      "bio": "Mike Budenholzer won the 2021 NBA championship with the Milwaukee Bucks."
+    },
+    {
+      "id": "steve-kerr",
+      "name": "Steve Kerr",
+      "sport": "NBA",
+      "currentTeam": "Golden State Warriors",
+      "formerTeams": [
+        { "name": "Golden State Warriors", "years": { "start": 2014 }, "role": "Head Coach", "record": { "wins": 544, "losses": 256 } }
+      ],
+      "yearsActive": { "start": 2014 },
+      "mentors": [
+        { "coachId": "phil-jackson", "coachName": "Phil Jackson", "team": "Chicago Bulls", "years": { "start": 1993, "end": 1998 }, "role": "player" },
+        { "coachId": "gregg-popovich", "coachName": "Gregg Popovich", "team": "San Antonio Spurs", "years": { "start": 1999, "end": 2003 }, "role": "player" }
+      ],
+      "disciples": [
+        { "coachId": "kenny-atkinson", "coachName": "Kenny Atkinson", "team": "Golden State Warriors", "years": { "start": 2021, "end": 2023 }, "role": "assistant" }
+      ],
+      "championships": 4,
+      "coachOfYearAwards": 0,
+      "playoffAppearances": 8,
+      "winPercentage": 0.680,
+      "allStarSelectionsCoached": 24,
+      "imageUrl": "/images/coaches/kerr.jpg",
+      "bio": "Steve Kerr won four NBA championships with the Golden State Warriors dynasty."
+    },
+    {
+      "id": "doc-rivers",
+      "name": "Doc Rivers",
+      "sport": "NBA",
+      "currentTeam": "Milwaukee Bucks",
+      "formerTeams": [
+        { "name": "Orlando Magic", "years": { "start": 1999, "end": 2003 }, "role": "Head Coach", "record": { "wins": 171, "losses": 168 } },
+        { "name": "Boston Celtics", "years": { "start": 2004, "end": 2013 }, "role": "Head Coach", "record": { "wins": 416, "losses": 305 } },
+        { "name": "Los Angeles Clippers", "years": { "start": 2013, "end": 2020 }, "role": "Head Coach", "record": { "wins": 356, "losses": 208 } },
+        { "name": "Philadelphia 76ers", "years": { "start": 2020, "end": 2023 }, "role": "Head Coach", "record": { "wins": 154, "losses": 82 } },
+        { "name": "Milwaukee Bucks", "years": { "start": 2023 }, "role": "Head Coach", "record": { "wins": 49, "losses": 33 } }
+      ],
+      "yearsActive": { "start": 1999 },
+      "mentors": [],
+      "disciples": [
+        { "coachId": "tyronn-lue", "coachName": "Tyronn Lue", "team": "Los Angeles Clippers", "years": { "start": 2013, "end": 2018 }, "role": "assistant" },
+        { "coachId": "sam-cassell", "coachName": "Sam Cassell", "team": "Los Angeles Clippers", "years": { "start": 2014, "end": 2021 }, "role": "assistant" }
+      ],
+      "championships": 1,
+      "coachOfYearAwards": 0,
+      "playoffAppearances": 15,
+      "winPercentage": 0.583,
+      "allStarSelectionsCoached": 32,
+      "imageUrl": "/images/coaches/rivers.jpg",
+      "bio": "Doc Rivers won the 2008 NBA championship with the Boston Celtics."
+    },
+    {
+      "id": "tyronn-lue",
+      "name": "Tyronn Lue",
+      "sport": "NBA",
+      "currentTeam": "Los Angeles Clippers",
+      "formerTeams": [
+        { "name": "Cleveland Cavaliers", "years": { "start": 2016, "end": 2018 }, "role": "Head Coach", "record": { "wins": 128, "losses": 83 } },
+        { "name": "Los Angeles Clippers", "years": { "start": 2020 }, "role": "Head Coach", "record": { "wins": 196, "losses": 115 } }
+      ],
+      "yearsActive": { "start": 2013 },
+      "mentors": [
+        { "coachId": "doc-rivers", "coachName": "Doc Rivers", "team": "Los Angeles Clippers", "years": { "start": 2013, "end": 2018 }, "role": "assistant" }
+      ],
+      "disciples": [],
+      "championships": 1,
+      "coachOfYearAwards": 0,
+      "playoffAppearances": 5,
+      "winPercentage": 0.614,
+      "allStarSelectionsCoached": 14,
+      "imageUrl": "/images/coaches/lue.jpg",
+      "bio": "Tyronn Lue won the 2016 NBA championship with the Cleveland Cavaliers."
+    },
+    {
+      "id": "quin-snyder",
+      "name": "Quin Snyder",
+      "sport": "NBA",
+      "currentTeam": "Atlanta Hawks",
+      "formerTeams": [
+        { "name": "Utah Jazz", "years": { "start": 2014, "end": 2022 }, "role": "Head Coach", "record": { "wins": 372, "losses": 264 } },
+        { "name": "Atlanta Hawks", "years": { "start": 2023 }, "role": "Head Coach", "record": { "wins": 72, "losses": 74 } }
+      ],
+      "yearsActive": { "start": 2007 },
+      "mentors": [
+        { "coachId": "gregg-popovich", "coachName": "Gregg Popovich", "team": "San Antonio Spurs", "years": { "start": 2007, "end": 2010 }, "role": "assistant" }
+      ],
+      "disciples": [],
+      "championships": 0,
+      "coachOfYearAwards": 0,
+      "playoffAppearances": 6,
+      "winPercentage": 0.570,
+      "allStarSelectionsCoached": 10,
+      "imageUrl": "/images/coaches/snyder.jpg",
+      "bio": "Quin Snyder built the Utah Jazz into a top Western Conference contender."
+    },
+    {
+      "id": "ime-udoka",
+      "name": "Ime Udoka",
+      "sport": "NBA",
+      "currentTeam": "Houston Rockets",
+      "formerTeams": [
+        { "name": "Boston Celtics", "years": { "start": 2021, "end": 2022 }, "role": "Head Coach", "record": { "wins": 51, "losses": 31 } },
+        { "name": "Houston Rockets", "years": { "start": 2023 }, "role": "Head Coach", "record": { "wins": 75, "losses": 71 } }
+      ],
+      "yearsActive": { "start": 2012 },
+      "mentors": [
+        { "coachId": "gregg-popovich", "coachName": "Gregg Popovich", "team": "San Antonio Spurs", "years": { "start": 2012, "end": 2019 }, "role": "assistant" }
+      ],
+      "disciples": [],
+      "championships": 0,
+      "coachOfYearAwards": 0,
+      "playoffAppearances": 2,
+      "winPercentage": 0.555,
+      "allStarSelectionsCoached": 6,
+      "imageUrl": "/images/coaches/udoka.jpg",
+      "bio": "Ime Udoka led the Boston Celtics to the NBA Finals in his first season as head coach."
+    },
+    {
+      "id": "becky-hammon",
+      "name": "Becky Hammon",
+      "sport": "NBA",
+      "currentTeam": null,
+      "formerTeams": [],
+      "yearsActive": { "start": 2014 },
+      "mentors": [
+        { "coachId": "gregg-popovich", "coachName": "Gregg Popovich", "team": "San Antonio Spurs", "years": { "start": 2014, "end": 2021 }, "role": "assistant" }
+      ],
+      "disciples": [],
+      "championships": 0,
+      "coachOfYearAwards": 0,
+      "playoffAppearances": 0,
+      "winPercentage": 0,
+      "allStarSelectionsCoached": 0,
+      "imageUrl": "/images/coaches/hammon.jpg",
+      "bio": "Becky Hammon became the first female full-time assistant coach in NBA history and now coaches in the WNBA."
+    },
+    {
+      "id": "larry-brown",
+      "name": "Larry Brown",
+      "sport": "NBA",
+      "currentTeam": null,
+      "formerTeams": [
+        { "name": "Denver Nuggets", "years": { "start": 1974, "end": 1979 }, "role": "Head Coach", "record": { "wins": 229, "losses": 107 } },
+        { "name": "New Jersey Nets", "years": { "start": 1981, "end": 1983 }, "role": "Head Coach", "record": { "wins": 91, "losses": 69 } },
+        { "name": "San Antonio Spurs", "years": { "start": 1988, "end": 1992 }, "role": "Head Coach", "record": { "wins": 153, "losses": 131 } },
+        { "name": "Los Angeles Clippers", "years": { "start": 1991, "end": 1993 }, "role": "Head Coach", "record": { "wins": 38, "losses": 64 } },
+        { "name": "Indiana Pacers", "years": { "start": 1993, "end": 1997 }, "role": "Head Coach", "record": { "wins": 190, "losses": 138 } },
+        { "name": "Philadelphia 76ers", "years": { "start": 1997, "end": 2003 }, "role": "Head Coach", "record": { "wins": 225, "losses": 179 } },
+        { "name": "Detroit Pistons", "years": { "start": 2003, "end": 2005 }, "role": "Head Coach", "record": { "wins": 108, "losses": 50 } },
+        { "name": "New York Knicks", "years": { "start": 2005, "end": 2006 }, "role": "Head Coach", "record": { "wins": 23, "losses": 59 } },
+        { "name": "Charlotte Bobcats", "years": { "start": 2008, "end": 2010 }, "role": "Head Coach", "record": { "wins": 43, "losses": 87 } }
+      ],
+      "yearsActive": { "start": 1972, "end": 2010 },
+      "mentors": [],
+      "disciples": [
+        { "coachId": "gregg-popovich", "coachName": "Gregg Popovich", "team": "San Antonio Spurs", "years": { "start": 1988, "end": 1992 }, "role": "assistant" }
+      ],
+      "championships": 1,
+      "coachOfYearAwards": 1,
+      "playoffAppearances": 18,
+      "winPercentage": 0.557,
+      "allStarSelectionsCoached": 35,
+      "imageUrl": "/images/coaches/l-brown.jpg",
+      "bio": "Larry Brown is the only coach to win both an NCAA and NBA championship."
+    }
+  ]
+}

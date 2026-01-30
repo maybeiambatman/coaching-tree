@@ -1,0 +1,455 @@
+{
+  "coaches": [
+    {
+      "id": "bill-belichick",
+      "name": "Bill Belichick",
+      "sport": "NFL",
+      "currentTeam": null,
+      "formerTeams": [
+        { "name": "New England Patriots", "years": { "start": 2000, "end": 2023 }, "role": "Head Coach", "record": { "wins": 266, "losses": 121 } },
+        { "name": "Cleveland Browns", "years": { "start": 1991, "end": 1995 }, "role": "Head Coach", "record": { "wins": 36, "losses": 44 } }
+      ],
+      "yearsActive": { "start": 1975 },
+      "mentors": [
+        { "coachId": "bill-parcells", "coachName": "Bill Parcells", "team": "New York Giants", "years": { "start": 1979, "end": 1990 }, "role": "assistant" }
+      ],
+      "disciples": [
+        { "coachId": "nick-saban", "coachName": "Nick Saban", "team": "Cleveland Browns", "years": { "start": 1991, "end": 1994 }, "role": "coordinator" },
+        { "coachId": "brian-flores", "coachName": "Brian Flores", "team": "New England Patriots", "years": { "start": 2008, "end": 2018 }, "role": "assistant" },
+        { "coachId": "matt-patricia", "coachName": "Matt Patricia", "team": "New England Patriots", "years": { "start": 2004, "end": 2017 }, "role": "coordinator" },
+        { "coachId": "josh-mcdaniels", "coachName": "Josh McDaniels", "team": "New England Patriots", "years": { "start": 2001, "end": 2021 }, "role": "coordinator" },
+        { "coachId": "mike-vrabel", "coachName": "Mike Vrabel", "team": "New England Patriots", "years": { "start": 2001, "end": 2008 }, "role": "player" },
+        { "coachId": "jerod-mayo", "coachName": "Jerod Mayo", "team": "New England Patriots", "years": { "start": 2019, "end": 2023 }, "role": "assistant" }
+      ],
+      "championships": 6,
+      "coachOfYearAwards": 3,
+      "playoffAppearances": 19,
+      "winPercentage": 0.657,
+      "allStarSelectionsCoached": 45,
+      "imageUrl": "/images/coaches/belichick.jpg",
+      "bio": "Bill Belichick is widely regarded as the greatest NFL coach of all time, winning six Super Bowls with the New England Patriots."
+    },
+    {
+      "id": "bill-parcells",
+      "name": "Bill Parcells",
+      "sport": "NFL",
+      "currentTeam": null,
+      "formerTeams": [
+        { "name": "New York Giants", "years": { "start": 1983, "end": 1990 }, "role": "Head Coach", "record": { "wins": 77, "losses": 49 } },
+        { "name": "New England Patriots", "years": { "start": 1993, "end": 1996 }, "role": "Head Coach", "record": { "wins": 32, "losses": 32 } },
+        { "name": "New York Jets", "years": { "start": 1997, "end": 1999 }, "role": "Head Coach", "record": { "wins": 29, "losses": 19 } },
+        { "name": "Dallas Cowboys", "years": { "start": 2003, "end": 2006 }, "role": "Head Coach", "record": { "wins": 34, "losses": 32 } }
+      ],
+      "yearsActive": { "start": 1978, "end": 2006 },
+      "mentors": [
+        { "coachId": "tom-landry", "coachName": "Tom Landry", "team": "Dallas Cowboys", "years": { "start": 1978, "end": 1978 }, "role": "assistant" }
+      ],
+      "disciples": [
+        { "coachId": "bill-belichick", "coachName": "Bill Belichick", "team": "New York Giants", "years": { "start": 1979, "end": 1990 }, "role": "assistant" },
+        { "coachId": "tom-coughlin", "coachName": "Tom Coughlin", "team": "New York Giants", "years": { "start": 1988, "end": 1990 }, "role": "assistant" },
+        { "coachId": "sean-payton", "coachName": "Sean Payton", "team": "Dallas Cowboys", "years": { "start": 2003, "end": 2005 }, "role": "assistant" },
+        { "coachId": "tony-romo", "coachName": "Tony Romo", "team": "Dallas Cowboys", "years": { "start": 2003, "end": 2006 }, "role": "player" }
+      ],
+      "championships": 2,
+      "coachOfYearAwards": 2,
+      "playoffAppearances": 11,
+      "winPercentage": 0.570,
+      "allStarSelectionsCoached": 28,
+      "imageUrl": "/images/coaches/parcells.jpg",
+      "bio": "Bill Parcells led the New York Giants to two Super Bowl victories and mentored numerous successful NFL head coaches."
+    },
+    {
+      "id": "bill-walsh",
+      "name": "Bill Walsh",
+      "sport": "NFL",
+      "currentTeam": null,
+      "formerTeams": [
+        { "name": "San Francisco 49ers", "years": { "start": 1979, "end": 1988 }, "role": "Head Coach", "record": { "wins": 92, "losses": 59 } }
+      ],
+      "yearsActive": { "start": 1966, "end": 1988 },
+      "mentors": [
+        { "coachId": "paul-brown", "coachName": "Paul Brown", "team": "Cincinnati Bengals", "years": { "start": 1968, "end": 1975 }, "role": "assistant" }
+      ],
+      "disciples": [
+        { "coachId": "george-seifert", "coachName": "George Seifert", "team": "San Francisco 49ers", "years": { "start": 1980, "end": 1988 }, "role": "coordinator" },
+        { "coachId": "mike-holmgren", "coachName": "Mike Holmgren", "team": "San Francisco 49ers", "years": { "start": 1986, "end": 1991 }, "role": "coordinator" },
+        { "coachId": "dennis-green", "coachName": "Dennis Green", "team": "San Francisco 49ers", "years": { "start": 1986, "end": 1988 }, "role": "assistant" },
+        { "coachId": "mike-shanahan", "coachName": "Mike Shanahan", "team": "San Francisco 49ers", "years": { "start": 1992, "end": 1994 }, "role": "coordinator" }
+      ],
+      "championships": 3,
+      "coachOfYearAwards": 1,
+      "playoffAppearances": 8,
+      "winPercentage": 0.617,
+      "allStarSelectionsCoached": 35,
+      "imageUrl": "/images/coaches/walsh.jpg",
+      "bio": "Bill Walsh invented the West Coast Offense and built one of the most influential coaching trees in NFL history."
+    },
+    {
+      "id": "nick-saban",
+      "name": "Nick Saban",
+      "sport": "NFL",
+      "currentTeam": null,
+      "formerTeams": [
+        { "name": "Miami Dolphins", "years": { "start": 2005, "end": 2006 }, "role": "Head Coach", "record": { "wins": 15, "losses": 17 } }
+      ],
+      "yearsActive": { "start": 1973 },
+      "mentors": [
+        { "coachId": "bill-belichick", "coachName": "Bill Belichick", "team": "Cleveland Browns", "years": { "start": 1991, "end": 1994 }, "role": "coordinator" }
+      ],
+      "disciples": [
+        { "coachId": "kirby-smart", "coachName": "Kirby Smart", "team": "Alabama (College)", "years": { "start": 2007, "end": 2015 }, "role": "coordinator" }
+      ],
+      "championships": 0,
+      "coachOfYearAwards": 0,
+      "playoffAppearances": 0,
+      "winPercentage": 0.469,
+      "allStarSelectionsCoached": 2,
+      "imageUrl": "/images/coaches/saban.jpg",
+      "bio": "Nick Saban had a brief NFL career with the Dolphins before becoming the most successful college football coach in history at Alabama."
+    },
+    {
+      "id": "mike-holmgren",
+      "name": "Mike Holmgren",
+      "sport": "NFL",
+      "currentTeam": null,
+      "formerTeams": [
+        { "name": "Green Bay Packers", "years": { "start": 1992, "end": 1998 }, "role": "Head Coach", "record": { "wins": 75, "losses": 37 } },
+        { "name": "Seattle Seahawks", "years": { "start": 1999, "end": 2008 }, "role": "Head Coach", "record": { "wins": 86, "losses": 74 } }
+      ],
+      "yearsActive": { "start": 1981, "end": 2008 },
+      "mentors": [
+        { "coachId": "bill-walsh", "coachName": "Bill Walsh", "team": "San Francisco 49ers", "years": { "start": 1986, "end": 1991 }, "role": "coordinator" }
+      ],
+      "disciples": [
+        { "coachId": "andy-reid", "coachName": "Andy Reid", "team": "Green Bay Packers", "years": { "start": 1992, "end": 1998 }, "role": "assistant" },
+        { "coachId": "jon-gruden", "coachName": "Jon Gruden", "team": "Green Bay Packers", "years": { "start": 1992, "end": 1994 }, "role": "assistant" },
+        { "coachId": "steve-mariucci", "coachName": "Steve Mariucci", "team": "Green Bay Packers", "years": { "start": 1992, "end": 1995 }, "role": "assistant" }
+      ],
+      "championships": 1,
+      "coachOfYearAwards": 0,
+      "playoffAppearances": 12,
+      "winPercentage": 0.554,
+      "allStarSelectionsCoached": 22,
+      "imageUrl": "/images/coaches/holmgren.jpg",
+      "bio": "Mike Holmgren won Super Bowl XXXI with the Packers and mentored Andy Reid, one of the most successful modern NFL coaches."
+    },
+    {
+      "id": "andy-reid",
+      "name": "Andy Reid",
+      "sport": "NFL",
+      "currentTeam": "Kansas City Chiefs",
+      "formerTeams": [
+        { "name": "Philadelphia Eagles", "years": { "start": 1999, "end": 2012 }, "role": "Head Coach", "record": { "wins": 130, "losses": 93 } },
+        { "name": "Kansas City Chiefs", "years": { "start": 2013 }, "role": "Head Coach", "record": { "wins": 148, "losses": 60 } }
+      ],
+      "yearsActive": { "start": 1992 },
+      "mentors": [
+        { "coachId": "mike-holmgren", "coachName": "Mike Holmgren", "team": "Green Bay Packers", "years": { "start": 1992, "end": 1998 }, "role": "assistant" }
+      ],
+      "disciples": [
+        { "coachId": "john-harbaugh", "coachName": "John Harbaugh", "team": "Philadelphia Eagles", "years": { "start": 1998, "end": 2007 }, "role": "assistant" },
+        { "coachId": "doug-pederson", "coachName": "Doug Pederson", "team": "Philadelphia Eagles", "years": { "start": 2009, "end": 2012 }, "role": "assistant" },
+        { "coachId": "matt-nagy", "coachName": "Matt Nagy", "team": "Philadelphia Eagles/Kansas City Chiefs", "years": { "start": 2008, "end": 2017 }, "role": "coordinator" },
+        { "coachId": "ron-rivera", "coachName": "Ron Rivera", "team": "Philadelphia Eagles", "years": { "start": 1999, "end": 2003 }, "role": "assistant" }
+      ],
+      "championships": 3,
+      "coachOfYearAwards": 0,
+      "playoffAppearances": 22,
+      "winPercentage": 0.612,
+      "allStarSelectionsCoached": 38,
+      "imageUrl": "/images/coaches/reid.jpg",
+      "bio": "Andy Reid has won three Super Bowls with the Kansas City Chiefs and has one of the most extensive coaching trees in modern NFL history."
+    },
+    {
+      "id": "sean-payton",
+      "name": "Sean Payton",
+      "sport": "NFL",
+      "currentTeam": "Denver Broncos",
+      "formerTeams": [
+        { "name": "New Orleans Saints", "years": { "start": 2006, "end": 2021 }, "role": "Head Coach", "record": { "wins": 152, "losses": 89 } },
+        { "name": "Denver Broncos", "years": { "start": 2023 }, "role": "Head Coach", "record": { "wins": 18, "losses": 16 } }
+      ],
+      "yearsActive": { "start": 1997 },
+      "mentors": [
+        { "coachId": "bill-parcells", "coachName": "Bill Parcells", "team": "Dallas Cowboys", "years": { "start": 2003, "end": 2005 }, "role": "assistant" }
+      ],
+      "disciples": [
+        { "coachId": "dennis-allen", "coachName": "Dennis Allen", "team": "New Orleans Saints", "years": { "start": 2015, "end": 2021 }, "role": "coordinator" },
+        { "coachId": "dan-campbell", "coachName": "Dan Campbell", "team": "New Orleans Saints", "years": { "start": 2016, "end": 2020 }, "role": "assistant" }
+      ],
+      "championships": 1,
+      "coachOfYearAwards": 2,
+      "playoffAppearances": 9,
+      "winPercentage": 0.620,
+      "allStarSelectionsCoached": 18,
+      "imageUrl": "/images/coaches/payton.jpg",
+      "bio": "Sean Payton won Super Bowl XLIV with the New Orleans Saints and is known for his innovative offensive schemes."
+    },
+    {
+      "id": "tom-coughlin",
+      "name": "Tom Coughlin",
+      "sport": "NFL",
+      "currentTeam": null,
+      "formerTeams": [
+        { "name": "Jacksonville Jaguars", "years": { "start": 1995, "end": 2002 }, "role": "Head Coach", "record": { "wins": 68, "losses": 60 } },
+        { "name": "New York Giants", "years": { "start": 2004, "end": 2015 }, "role": "Head Coach", "record": { "wins": 102, "losses": 90 } }
+      ],
+      "yearsActive": { "start": 1969, "end": 2015 },
+      "mentors": [
+        { "coachId": "bill-parcells", "coachName": "Bill Parcells", "team": "New York Giants", "years": { "start": 1988, "end": 1990 }, "role": "assistant" }
+      ],
+      "disciples": [
+        { "coachId": "mike-mularkey", "coachName": "Mike Mularkey", "team": "Jacksonville Jaguars", "years": { "start": 1997, "end": 1999 }, "role": "assistant" }
+      ],
+      "championships": 2,
+      "coachOfYearAwards": 1,
+      "playoffAppearances": 10,
+      "winPercentage": 0.531,
+      "allStarSelectionsCoached": 16,
+      "imageUrl": "/images/coaches/coughlin.jpg",
+      "bio": "Tom Coughlin won two Super Bowls with the New York Giants, both against the previously undefeated New England Patriots."
+    },
+    {
+      "id": "mike-shanahan",
+      "name": "Mike Shanahan",
+      "sport": "NFL",
+      "currentTeam": null,
+      "formerTeams": [
+        { "name": "Los Angeles Raiders", "years": { "start": 1988, "end": 1989 }, "role": "Head Coach", "record": { "wins": 8, "losses": 12 } },
+        { "name": "Denver Broncos", "years": { "start": 1995, "end": 2008 }, "role": "Head Coach", "record": { "wins": 138, "losses": 86 } },
+        { "name": "Washington Redskins", "years": { "start": 2010, "end": 2013 }, "role": "Head Coach", "record": { "wins": 24, "losses": 40 } }
+      ],
+      "yearsActive": { "start": 1984, "end": 2013 },
+      "mentors": [
+        { "coachId": "bill-walsh", "coachName": "Bill Walsh", "team": "San Francisco 49ers", "years": { "start": 1992, "end": 1994 }, "role": "coordinator" }
+      ],
+      "disciples": [
+        { "coachId": "kyle-shanahan", "coachName": "Kyle Shanahan", "team": "Washington Redskins", "years": { "start": 2010, "end": 2013 }, "role": "coordinator" },
+        { "coachId": "gary-kubiak", "coachName": "Gary Kubiak", "team": "Denver Broncos", "years": { "start": 1995, "end": 2005 }, "role": "coordinator" }
+      ],
+      "championships": 2,
+      "coachOfYearAwards": 1,
+      "playoffAppearances": 10,
+      "winPercentage": 0.549,
+      "allStarSelectionsCoached": 24,
+      "imageUrl": "/images/coaches/m-shanahan.jpg",
+      "bio": "Mike Shanahan won back-to-back Super Bowls with the Denver Broncos and developed the zone blocking scheme."
+    },
+    {
+      "id": "kyle-shanahan",
+      "name": "Kyle Shanahan",
+      "sport": "NFL",
+      "currentTeam": "San Francisco 49ers",
+      "formerTeams": [
+        { "name": "San Francisco 49ers", "years": { "start": 2017 }, "role": "Head Coach", "record": { "wins": 69, "losses": 56 } }
+      ],
+      "yearsActive": { "start": 2004 },
+      "mentors": [
+        { "coachId": "mike-shanahan", "coachName": "Mike Shanahan", "team": "Washington Redskins", "years": { "start": 2010, "end": 2013 }, "role": "coordinator" }
+      ],
+      "disciples": [
+        { "coachId": "mike-mcdaniel", "coachName": "Mike McDaniel", "team": "San Francisco 49ers", "years": { "start": 2017, "end": 2021 }, "role": "coordinator" },
+        { "coachId": "demeco-ryans", "coachName": "DeMeco Ryans", "team": "San Francisco 49ers", "years": { "start": 2021, "end": 2022 }, "role": "coordinator" }
+      ],
+      "championships": 0,
+      "coachOfYearAwards": 0,
+      "playoffAppearances": 5,
+      "winPercentage": 0.552,
+      "allStarSelectionsCoached": 14,
+      "imageUrl": "/images/coaches/k-shanahan.jpg",
+      "bio": "Kyle Shanahan has led the 49ers to two Super Bowl appearances and is considered one of the best offensive minds in the NFL."
+    },
+    {
+      "id": "john-harbaugh",
+      "name": "John Harbaugh",
+      "sport": "NFL",
+      "currentTeam": "Baltimore Ravens",
+      "formerTeams": [
+        { "name": "Baltimore Ravens", "years": { "start": 2008 }, "role": "Head Coach", "record": { "wins": 172, "losses": 100 } }
+      ],
+      "yearsActive": { "start": 1988 },
+      "mentors": [
+        { "coachId": "andy-reid", "coachName": "Andy Reid", "team": "Philadelphia Eagles", "years": { "start": 1998, "end": 2007 }, "role": "assistant" }
+      ],
+      "disciples": [],
+      "championships": 1,
+      "coachOfYearAwards": 2,
+      "playoffAppearances": 12,
+      "winPercentage": 0.632,
+      "allStarSelectionsCoached": 20,
+      "imageUrl": "/images/coaches/j-harbaugh.jpg",
+      "bio": "John Harbaugh won Super Bowl XLVII with the Baltimore Ravens and is one of the most consistent coaches in the NFL."
+    },
+    {
+      "id": "doug-pederson",
+      "name": "Doug Pederson",
+      "sport": "NFL",
+      "currentTeam": "Jacksonville Jaguars",
+      "formerTeams": [
+        { "name": "Philadelphia Eagles", "years": { "start": 2016, "end": 2020 }, "role": "Head Coach", "record": { "wins": 42, "losses": 37 } },
+        { "name": "Jacksonville Jaguars", "years": { "start": 2022 }, "role": "Head Coach", "record": { "wins": 22, "losses": 30 } }
+      ],
+      "yearsActive": { "start": 2009 },
+      "mentors": [
+        { "coachId": "andy-reid", "coachName": "Andy Reid", "team": "Philadelphia Eagles", "years": { "start": 2009, "end": 2012 }, "role": "assistant" }
+      ],
+      "disciples": [],
+      "championships": 1,
+      "coachOfYearAwards": 0,
+      "playoffAppearances": 4,
+      "winPercentage": 0.488,
+      "allStarSelectionsCoached": 8,
+      "imageUrl": "/images/coaches/pederson.jpg",
+      "bio": "Doug Pederson won Super Bowl LII with the Philadelphia Eagles, defeating the New England Patriots."
+    },
+    {
+      "id": "brian-flores",
+      "name": "Brian Flores",
+      "sport": "NFL",
+      "currentTeam": null,
+      "formerTeams": [
+        { "name": "Miami Dolphins", "years": { "start": 2019, "end": 2021 }, "role": "Head Coach", "record": { "wins": 24, "losses": 25 } }
+      ],
+      "yearsActive": { "start": 2008 },
+      "mentors": [
+        { "coachId": "bill-belichick", "coachName": "Bill Belichick", "team": "New England Patriots", "years": { "start": 2008, "end": 2018 }, "role": "assistant" }
+      ],
+      "disciples": [],
+      "championships": 0,
+      "coachOfYearAwards": 0,
+      "playoffAppearances": 0,
+      "winPercentage": 0.490,
+      "allStarSelectionsCoached": 4,
+      "imageUrl": "/images/coaches/flores.jpg",
+      "bio": "Brian Flores coached the Miami Dolphins and is currently a defensive coordinator in the NFL."
+    },
+    {
+      "id": "josh-mcdaniels",
+      "name": "Josh McDaniels",
+      "sport": "NFL",
+      "currentTeam": null,
+      "formerTeams": [
+        { "name": "Denver Broncos", "years": { "start": 2009, "end": 2010 }, "role": "Head Coach", "record": { "wins": 11, "losses": 17 } },
+        { "name": "Las Vegas Raiders", "years": { "start": 2022, "end": 2023 }, "role": "Head Coach", "record": { "wins": 9, "losses": 16 } }
+      ],
+      "yearsActive": { "start": 2001 },
+      "mentors": [
+        { "coachId": "bill-belichick", "coachName": "Bill Belichick", "team": "New England Patriots", "years": { "start": 2001, "end": 2021 }, "role": "coordinator" }
+      ],
+      "disciples": [],
+      "championships": 0,
+      "coachOfYearAwards": 0,
+      "playoffAppearances": 0,
+      "winPercentage": 0.377,
+      "allStarSelectionsCoached": 2,
+      "imageUrl": "/images/coaches/mcdaniels.jpg",
+      "bio": "Josh McDaniels was a highly successful offensive coordinator but has struggled as an NFL head coach."
+    },
+    {
+      "id": "mike-vrabel",
+      "name": "Mike Vrabel",
+      "sport": "NFL",
+      "currentTeam": "New England Patriots",
+      "formerTeams": [
+        { "name": "Tennessee Titans", "years": { "start": 2018, "end": 2023 }, "role": "Head Coach", "record": { "wins": 54, "losses": 45 } },
+        { "name": "New England Patriots", "years": { "start": 2024 }, "role": "Head Coach", "record": { "wins": 0, "losses": 0 } }
+      ],
+      "yearsActive": { "start": 2014 },
+      "mentors": [
+        { "coachId": "bill-belichick", "coachName": "Bill Belichick", "team": "New England Patriots", "years": { "start": 2001, "end": 2008 }, "role": "player" }
+      ],
+      "disciples": [],
+      "championships": 0,
+      "coachOfYearAwards": 1,
+      "playoffAppearances": 3,
+      "winPercentage": 0.545,
+      "allStarSelectionsCoached": 6,
+      "imageUrl": "/images/coaches/vrabel.jpg",
+      "bio": "Mike Vrabel won three Super Bowls as a player under Bill Belichick before becoming a successful NFL head coach."
+    },
+    {
+      "id": "dan-campbell",
+      "name": "Dan Campbell",
+      "sport": "NFL",
+      "currentTeam": "Detroit Lions",
+      "formerTeams": [
+        { "name": "Detroit Lions", "years": { "start": 2021 }, "role": "Head Coach", "record": { "wins": 34, "losses": 20 } }
+      ],
+      "yearsActive": { "start": 2016 },
+      "mentors": [
+        { "coachId": "sean-payton", "coachName": "Sean Payton", "team": "New Orleans Saints", "years": { "start": 2016, "end": 2020 }, "role": "assistant" }
+      ],
+      "disciples": [],
+      "championships": 0,
+      "coachOfYearAwards": 1,
+      "playoffAppearances": 2,
+      "winPercentage": 0.630,
+      "allStarSelectionsCoached": 8,
+      "imageUrl": "/images/coaches/campbell.jpg",
+      "bio": "Dan Campbell has transformed the Detroit Lions into a Super Bowl contender with his aggressive coaching style."
+    },
+    {
+      "id": "mike-mcdaniel",
+      "name": "Mike McDaniel",
+      "sport": "NFL",
+      "currentTeam": "Miami Dolphins",
+      "formerTeams": [
+        { "name": "Miami Dolphins", "years": { "start": 2022 }, "role": "Head Coach", "record": { "wins": 22, "losses": 12 } }
+      ],
+      "yearsActive": { "start": 2005 },
+      "mentors": [
+        { "coachId": "kyle-shanahan", "coachName": "Kyle Shanahan", "team": "San Francisco 49ers", "years": { "start": 2017, "end": 2021 }, "role": "coordinator" }
+      ],
+      "disciples": [],
+      "championships": 0,
+      "coachOfYearAwards": 0,
+      "playoffAppearances": 2,
+      "winPercentage": 0.647,
+      "allStarSelectionsCoached": 6,
+      "imageUrl": "/images/coaches/mcdaniel.jpg",
+      "bio": "Mike McDaniel has built one of the most explosive offenses in the NFL with the Miami Dolphins."
+    },
+    {
+      "id": "demeco-ryans",
+      "name": "DeMeco Ryans",
+      "sport": "NFL",
+      "currentTeam": "Houston Texans",
+      "formerTeams": [
+        { "name": "Houston Texans", "years": { "start": 2023 }, "role": "Head Coach", "record": { "wins": 19, "losses": 15 } }
+      ],
+      "yearsActive": { "start": 2021 },
+      "mentors": [
+        { "coachId": "kyle-shanahan", "coachName": "Kyle Shanahan", "team": "San Francisco 49ers", "years": { "start": 2021, "end": 2022 }, "role": "coordinator" }
+      ],
+      "disciples": [],
+      "championships": 0,
+      "coachOfYearAwards": 1,
+      "playoffAppearances": 2,
+      "winPercentage": 0.559,
+      "allStarSelectionsCoached": 4,
+      "imageUrl": "/images/coaches/ryans.jpg",
+      "bio": "DeMeco Ryans won Coach of the Year in his first season leading the Houston Texans to the playoffs."
+    },
+    {
+      "id": "jerod-mayo",
+      "name": "Jerod Mayo",
+      "sport": "NFL",
+      "currentTeam": "New England Patriots",
+      "formerTeams": [
+        { "name": "New England Patriots", "years": { "start": 2024 }, "role": "Head Coach", "record": { "wins": 4, "losses": 13 } }
+      ],
+      "yearsActive": { "start": 2019 },
+      "mentors": [
+        { "coachId": "bill-belichick", "coachName": "Bill Belichick", "team": "New England Patriots", "years": { "start": 2019, "end": 2023 }, "role": "assistant" }
+      ],
+      "disciples": [],
+      "championships": 0,
+      "coachOfYearAwards": 0,
+      "playoffAppearances": 0,
+      "winPercentage": 0.235,
+      "allStarSelectionsCoached": 0,
+      "imageUrl": "/images/coaches/mayo.jpg",
+      "bio": "Jerod Mayo became the Patriots head coach after Bill Belichick's departure in 2024."
+    }
+  ]
+}

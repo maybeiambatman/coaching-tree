@@ -1,0 +1,271 @@
+{
+  "coaches": [
+    {
+      "id": "pep-guardiola",
+      "name": "Pep Guardiola",
+      "sport": "Soccer",
+      "currentTeam": "Manchester City",
+      "formerTeams": [
+        { "name": "Barcelona B", "years": { "start": 2007, "end": 2008 }, "role": "Head Coach", "record": { "wins": 25, "losses": 10 } },
+        { "name": "Barcelona", "years": { "start": 2008, "end": 2012 }, "role": "Head Coach", "record": { "wins": 179, "losses": 42 } },
+        { "name": "Bayern Munich", "years": { "start": 2013, "end": 2016 }, "role": "Head Coach", "record": { "wins": 118, "losses": 16 } },
+        { "name": "Manchester City", "years": { "start": 2016 }, "role": "Head Coach", "record": { "wins": 341, "losses": 60 } }
+      ],
+      "yearsActive": { "start": 2007 },
+      "mentors": [
+        { "coachId": "johan-cruyff", "coachName": "Johan Cruyff", "team": "Barcelona", "years": { "start": 1990, "end": 1996 }, "role": "player" }
+      ],
+      "disciples": [
+        { "coachId": "mikel-arteta", "coachName": "Mikel Arteta", "team": "Manchester City", "years": { "start": 2016, "end": 2019 }, "role": "assistant" },
+        { "coachId": "enzo-maresca", "coachName": "Enzo Maresca", "team": "Manchester City", "years": { "start": 2022, "end": 2023 }, "role": "assistant" }
+      ],
+      "championships": 13,
+      "coachOfYearAwards": 4,
+      "playoffAppearances": 15,
+      "winPercentage": 0.751,
+      "allStarSelectionsCoached": 0,
+      "majorTrophies": 39,
+      "imageUrl": "/images/coaches/guardiola.jpg",
+      "bio": "Pep Guardiola is widely considered one of the greatest managers in football history, revolutionizing the game with his tiki-taka philosophy."
+    },
+    {
+      "id": "johan-cruyff",
+      "name": "Johan Cruyff",
+      "sport": "Soccer",
+      "currentTeam": null,
+      "formerTeams": [
+        { "name": "Ajax", "years": { "start": 1985, "end": 1988 }, "role": "Head Coach", "record": { "wins": 65, "losses": 28 } },
+        { "name": "Barcelona", "years": { "start": 1988, "end": 1996 }, "role": "Head Coach", "record": { "wins": 224, "losses": 74 } }
+      ],
+      "yearsActive": { "start": 1985, "end": 1996 },
+      "mentors": [
+        { "coachId": "rinus-michels", "coachName": "Rinus Michels", "team": "Ajax", "years": { "start": 1965, "end": 1971 }, "role": "player" }
+      ],
+      "disciples": [
+        { "coachId": "pep-guardiola", "coachName": "Pep Guardiola", "team": "Barcelona", "years": { "start": 1990, "end": 1996 }, "role": "player" },
+        { "coachId": "ronald-koeman", "coachName": "Ronald Koeman", "team": "Barcelona", "years": { "start": 1989, "end": 1995 }, "role": "player" },
+        { "coachId": "luis-enrique", "coachName": "Luis Enrique", "team": "Barcelona", "years": { "start": 1996, "end": 1996 }, "role": "player" }
+      ],
+      "championships": 6,
+      "coachOfYearAwards": 2,
+      "playoffAppearances": 8,
+      "winPercentage": 0.687,
+      "allStarSelectionsCoached": 0,
+      "majorTrophies": 11,
+      "imageUrl": "/images/coaches/cruyff.jpg",
+      "bio": "Johan Cruyff created the 'Dream Team' at Barcelona and laid the foundation for modern total football coaching."
+    },
+    {
+      "id": "sir-alex-ferguson",
+      "name": "Sir Alex Ferguson",
+      "sport": "Soccer",
+      "currentTeam": null,
+      "formerTeams": [
+        { "name": "Aberdeen", "years": { "start": 1978, "end": 1986 }, "role": "Head Coach", "record": { "wins": 236, "losses": 87 } },
+        { "name": "Manchester United", "years": { "start": 1986, "end": 2013 }, "role": "Head Coach", "record": { "wins": 895, "losses": 267 } }
+      ],
+      "yearsActive": { "start": 1974, "end": 2013 },
+      "mentors": [],
+      "disciples": [
+        { "coachId": "david-moyes", "coachName": "David Moyes", "team": "Manchester United", "years": { "start": 2013, "end": 2014 }, "role": "head_coach" },
+        { "coachId": "steve-bruce", "coachName": "Steve Bruce", "team": "Manchester United", "years": { "start": 1987, "end": 1996 }, "role": "player" },
+        { "coachId": "mark-hughes", "coachName": "Mark Hughes", "team": "Manchester United", "years": { "start": 1988, "end": 1995 }, "role": "player" },
+        { "coachId": "ole-gunnar-solskjaer", "coachName": "Ole Gunnar Solskjær", "team": "Manchester United", "years": { "start": 1996, "end": 2007 }, "role": "player" }
+      ],
+      "championships": 17,
+      "coachOfYearAwards": 5,
+      "playoffAppearances": 25,
+      "winPercentage": 0.658,
+      "allStarSelectionsCoached": 0,
+      "majorTrophies": 49,
+      "imageUrl": "/images/coaches/ferguson.jpg",
+      "bio": "Sir Alex Ferguson is the most successful manager in British football history, winning 38 trophies with Manchester United."
+    },
+    {
+      "id": "jose-mourinho",
+      "name": "José Mourinho",
+      "sport": "Soccer",
+      "currentTeam": "Fenerbahce",
+      "formerTeams": [
+        { "name": "Porto", "years": { "start": 2002, "end": 2004 }, "role": "Head Coach", "record": { "wins": 93, "losses": 10 } },
+        { "name": "Chelsea", "years": { "start": 2004, "end": 2007 }, "role": "Head Coach", "record": { "wins": 124, "losses": 28 } },
+        { "name": "Inter Milan", "years": { "start": 2008, "end": 2010 }, "role": "Head Coach", "record": { "wins": 67, "losses": 16 } },
+        { "name": "Real Madrid", "years": { "start": 2010, "end": 2013 }, "role": "Head Coach", "record": { "wins": 128, "losses": 29 } },
+        { "name": "Chelsea", "years": { "start": 2013, "end": 2015 }, "role": "Head Coach", "record": { "wins": 63, "losses": 24 } },
+        { "name": "Manchester United", "years": { "start": 2016, "end": 2018 }, "role": "Head Coach", "record": { "wins": 84, "losses": 28 } },
+        { "name": "Tottenham", "years": { "start": 2019, "end": 2021 }, "role": "Head Coach", "record": { "wins": 44, "losses": 24 } },
+        { "name": "Roma", "years": { "start": 2021, "end": 2024 }, "role": "Head Coach", "record": { "wins": 75, "losses": 41 } }
+      ],
+      "yearsActive": { "start": 2000 },
+      "mentors": [
+        { "coachId": "bobby-robson", "coachName": "Bobby Robson", "team": "Barcelona", "years": { "start": 1996, "end": 1997 }, "role": "assistant" }
+      ],
+      "disciples": [
+        { "coachId": "andre-villas-boas", "coachName": "André Villas-Boas", "team": "Porto", "years": { "start": 2002, "end": 2004 }, "role": "assistant" },
+        { "coachId": "brendan-rodgers", "coachName": "Brendan Rodgers", "team": "Chelsea", "years": { "start": 2004, "end": 2008 }, "role": "assistant" }
+      ],
+      "championships": 8,
+      "coachOfYearAwards": 4,
+      "playoffAppearances": 18,
+      "winPercentage": 0.632,
+      "allStarSelectionsCoached": 0,
+      "majorTrophies": 25,
+      "imageUrl": "/images/coaches/mourinho.jpg",
+      "bio": "José Mourinho is one of the most decorated managers in football, winning league titles in four different countries."
+    },
+    {
+      "id": "jurgen-klopp",
+      "name": "Jürgen Klopp",
+      "sport": "Soccer",
+      "currentTeam": null,
+      "formerTeams": [
+        { "name": "Mainz 05", "years": { "start": 2001, "end": 2008 }, "role": "Head Coach", "record": { "wins": 109, "losses": 103 } },
+        { "name": "Borussia Dortmund", "years": { "start": 2008, "end": 2015 }, "role": "Head Coach", "record": { "wins": 179, "losses": 66 } },
+        { "name": "Liverpool", "years": { "start": 2015, "end": 2024 }, "role": "Head Coach", "record": { "wins": 298, "losses": 84 } }
+      ],
+      "yearsActive": { "start": 2001, "end": 2024 },
+      "mentors": [
+        { "coachId": "wolfgang-frank", "coachName": "Wolfgang Frank", "team": "Mainz 05", "years": { "start": 1995, "end": 1997 }, "role": "player" }
+      ],
+      "disciples": [
+        { "coachId": "david-wagner", "coachName": "David Wagner", "team": "Borussia Dortmund II", "years": { "start": 2011, "end": 2015 }, "role": "coordinator" }
+      ],
+      "championships": 3,
+      "coachOfYearAwards": 5,
+      "playoffAppearances": 14,
+      "winPercentage": 0.576,
+      "allStarSelectionsCoached": 0,
+      "majorTrophies": 11,
+      "imageUrl": "/images/coaches/klopp.jpg",
+      "bio": "Jürgen Klopp won the Champions League and Premier League with Liverpool, known for his 'gegenpressing' style."
+    },
+    {
+      "id": "mikel-arteta",
+      "name": "Mikel Arteta",
+      "sport": "Soccer",
+      "currentTeam": "Arsenal",
+      "formerTeams": [
+        { "name": "Arsenal", "years": { "start": 2019 }, "role": "Head Coach", "record": { "wins": 124, "losses": 45 } }
+      ],
+      "yearsActive": { "start": 2016 },
+      "mentors": [
+        { "coachId": "pep-guardiola", "coachName": "Pep Guardiola", "team": "Manchester City", "years": { "start": 2016, "end": 2019 }, "role": "assistant" }
+      ],
+      "disciples": [],
+      "championships": 0,
+      "coachOfYearAwards": 0,
+      "playoffAppearances": 3,
+      "winPercentage": 0.589,
+      "allStarSelectionsCoached": 0,
+      "majorTrophies": 2,
+      "imageUrl": "/images/coaches/arteta.jpg",
+      "bio": "Mikel Arteta has transformed Arsenal into Premier League title contenders after learning from Pep Guardiola."
+    },
+    {
+      "id": "carlo-ancelotti",
+      "name": "Carlo Ancelotti",
+      "sport": "Soccer",
+      "currentTeam": "Real Madrid",
+      "formerTeams": [
+        { "name": "Reggiana", "years": { "start": 1995, "end": 1996 }, "role": "Head Coach", "record": { "wins": 18, "losses": 12 } },
+        { "name": "Parma", "years": { "start": 1996, "end": 1998 }, "role": "Head Coach", "record": { "wins": 44, "losses": 24 } },
+        { "name": "Juventus", "years": { "start": 1999, "end": 2001 }, "role": "Head Coach", "record": { "wins": 68, "losses": 23 } },
+        { "name": "AC Milan", "years": { "start": 2001, "end": 2009 }, "role": "Head Coach", "record": { "wins": 204, "losses": 71 } },
+        { "name": "Chelsea", "years": { "start": 2009, "end": 2011 }, "role": "Head Coach", "record": { "wins": 67, "losses": 20 } },
+        { "name": "Paris Saint-Germain", "years": { "start": 2011, "end": 2013 }, "role": "Head Coach", "record": { "wins": 60, "losses": 16 } },
+        { "name": "Real Madrid", "years": { "start": 2013, "end": 2015 }, "role": "Head Coach", "record": { "wins": 89, "losses": 16 } },
+        { "name": "Bayern Munich", "years": { "start": 2016, "end": 2017 }, "role": "Head Coach", "record": { "wins": 35, "losses": 8 } },
+        { "name": "Napoli", "years": { "start": 2018, "end": 2019 }, "role": "Head Coach", "record": { "wins": 44, "losses": 15 } },
+        { "name": "Everton", "years": { "start": 2019, "end": 2021 }, "role": "Head Coach", "record": { "wins": 31, "losses": 26 } },
+        { "name": "Real Madrid", "years": { "start": 2021 }, "role": "Head Coach", "record": { "wins": 152, "losses": 31 } }
+      ],
+      "yearsActive": { "start": 1992 },
+      "mentors": [
+        { "coachId": "arrigo-sacchi", "coachName": "Arrigo Sacchi", "team": "AC Milan", "years": { "start": 1987, "end": 1991 }, "role": "player" }
+      ],
+      "disciples": [],
+      "championships": 6,
+      "coachOfYearAwards": 3,
+      "playoffAppearances": 22,
+      "winPercentage": 0.649,
+      "allStarSelectionsCoached": 0,
+      "majorTrophies": 30,
+      "imageUrl": "/images/coaches/ancelotti.jpg",
+      "bio": "Carlo Ancelotti is the only manager to win league titles in all top five European leagues."
+    },
+    {
+      "id": "zinedine-zidane",
+      "name": "Zinedine Zidane",
+      "sport": "Soccer",
+      "currentTeam": null,
+      "formerTeams": [
+        { "name": "Real Madrid Castilla", "years": { "start": 2014, "end": 2016 }, "role": "Head Coach", "record": { "wins": 31, "losses": 16 } },
+        { "name": "Real Madrid", "years": { "start": 2016, "end": 2018 }, "role": "Head Coach", "record": { "wins": 104, "losses": 29 } },
+        { "name": "Real Madrid", "years": { "start": 2019, "end": 2021 }, "role": "Head Coach", "record": { "wins": 80, "losses": 26 } }
+      ],
+      "yearsActive": { "start": 2014, "end": 2021 },
+      "mentors": [
+        { "coachId": "carlo-ancelotti", "coachName": "Carlo Ancelotti", "team": "Real Madrid", "years": { "start": 2013, "end": 2014 }, "role": "assistant" }
+      ],
+      "disciples": [],
+      "championships": 4,
+      "coachOfYearAwards": 2,
+      "playoffAppearances": 5,
+      "winPercentage": 0.671,
+      "allStarSelectionsCoached": 0,
+      "majorTrophies": 11,
+      "imageUrl": "/images/coaches/zidane.jpg",
+      "bio": "Zinedine Zidane won three consecutive Champions League titles with Real Madrid, a historic achievement."
+    },
+    {
+      "id": "enzo-maresca",
+      "name": "Enzo Maresca",
+      "sport": "Soccer",
+      "currentTeam": "Chelsea",
+      "formerTeams": [
+        { "name": "Leicester City", "years": { "start": 2023, "end": 2024 }, "role": "Head Coach", "record": { "wins": 31, "losses": 8 } },
+        { "name": "Chelsea", "years": { "start": 2024 }, "role": "Head Coach", "record": { "wins": 14, "losses": 5 } }
+      ],
+      "yearsActive": { "start": 2022 },
+      "mentors": [
+        { "coachId": "pep-guardiola", "coachName": "Pep Guardiola", "team": "Manchester City", "years": { "start": 2022, "end": 2023 }, "role": "assistant" }
+      ],
+      "disciples": [],
+      "championships": 1,
+      "coachOfYearAwards": 0,
+      "playoffAppearances": 1,
+      "winPercentage": 0.689,
+      "allStarSelectionsCoached": 0,
+      "majorTrophies": 1,
+      "imageUrl": "/images/coaches/maresca.jpg",
+      "bio": "Enzo Maresca won the Championship with Leicester City before becoming Chelsea manager."
+    },
+    {
+      "id": "luis-enrique",
+      "name": "Luis Enrique",
+      "sport": "Soccer",
+      "currentTeam": "Paris Saint-Germain",
+      "formerTeams": [
+        { "name": "Barcelona B", "years": { "start": 2008, "end": 2011 }, "role": "Head Coach", "record": { "wins": 45, "losses": 22 } },
+        { "name": "Roma", "years": { "start": 2011, "end": 2012 }, "role": "Head Coach", "record": { "wins": 13, "losses": 12 } },
+        { "name": "Celta Vigo", "years": { "start": 2013, "end": 2014 }, "role": "Head Coach", "record": { "wins": 15, "losses": 14 } },
+        { "name": "Barcelona", "years": { "start": 2014, "end": 2017 }, "role": "Head Coach", "record": { "wins": 134, "losses": 32 } },
+        { "name": "Spain", "years": { "start": 2018, "end": 2022 }, "role": "Head Coach", "record": { "wins": 31, "losses": 5 } },
+        { "name": "Paris Saint-Germain", "years": { "start": 2023 }, "role": "Head Coach", "record": { "wins": 45, "losses": 10 } }
+      ],
+      "yearsActive": { "start": 2008 },
+      "mentors": [
+        { "coachId": "johan-cruyff", "coachName": "Johan Cruyff", "team": "Barcelona", "years": { "start": 1996, "end": 1996 }, "role": "player" }
+      ],
+      "disciples": [],
+      "championships": 4,
+      "coachOfYearAwards": 1,
+      "playoffAppearances": 10,
+      "winPercentage": 0.619,
+      "allStarSelectionsCoached": 0,
+      "majorTrophies": 10,
+      "imageUrl": "/images/coaches/luis-enrique.jpg",
+      "bio": "Luis Enrique won the treble with Barcelona in 2015 and led Spain to the Euro 2024 semifinals."
+    }
+  ]
+}
